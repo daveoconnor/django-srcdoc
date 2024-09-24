@@ -32,7 +32,7 @@ dependencies = [
 [project.urls]
 Documentation = "https://github.com/sheepman4267/django-srcdoc#readme"
 Issues = "https://github.com/sheepman4267/django-srcdoc/issues"
-Source = "https://github.com/sheepman4267 /django-srcdoc"
+Source = "https://github.com/sheepman4267/django-srcdoc"
 
 [tool.hatch.version]
 path = "src/django_srcdoc/__about__.py"
